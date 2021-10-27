@@ -1,0 +1,7 @@
+C:\Users\sazse\OneDrive\Документы\Hilell\HomeWorkHillel_Sazonov\HomeWorkHillel_Sazonov\bin\Debug\HomeWorkHillel_Sazonov.exe.config
+C:\Users\sazse\OneDrive\Документы\Hilell\HomeWorkHillel_Sazonov\HomeWorkHillel_Sazonov\bin\Debug\HomeWorkHillel_Sazonov.exe
+C:\Users\sazse\OneDrive\Документы\Hilell\HomeWorkHillel_Sazonov\HomeWorkHillel_Sazonov\bin\Debug\HomeWorkHillel_Sazonov.pdb
+C:\Users\sazse\OneDrive\Документы\Hilell\HomeWorkHillel_Sazonov\HomeWorkHillel_Sazonov\obj\Debug\HomeWorkHillel_Sazonov.csproj.AssemblyReference.cache
+C:\Users\sazse\OneDrive\Документы\Hilell\HomeWorkHillel_Sazonov\HomeWorkHillel_Sazonov\obj\Debug\HomeWorkHillel_Sazonov.csproj.CoreCompileInputs.cache
+C:\Users\sazse\OneDrive\Документы\Hilell\HomeWorkHillel_Sazonov\HomeWorkHillel_Sazonov\obj\Debug\HomeWorkHillel_Sazonov.exe
+C:\Users\sazse\OneDrive\Документы\Hilell\HomeWorkHillel_Sazonov\HomeWorkHillel_Sazonov\obj\Debug\HomeWorkHillel_Sazonov.pdb
